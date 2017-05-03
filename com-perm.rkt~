@@ -1,3 +1,0 @@
-#lang racket
-
-(define L (list 1 2 3))
